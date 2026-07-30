@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/itejas29/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/itejas29/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itejas29/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itejas29/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/itejas29/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itejas29/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Divide and Conquer
 |  |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/itejas29/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/itejas29/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
